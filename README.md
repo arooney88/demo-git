@@ -5,3 +5,6 @@ Example desciption!
 ## Subheader
 
 youtube examples. 
+
+## LOCAL DEV
+1. Open Index.html in your browser
